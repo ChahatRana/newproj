@@ -216,4 +216,3 @@ function countAlpha(str) {
   return (str.length - replaced.length) / 5; 
 }
 // "Alpha".length = 5
-// "Alpha".length = 5
